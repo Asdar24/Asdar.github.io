@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/asdar.github.io/static/css/main.ef42a886.css",
+    "main.js": "/asdar.github.io/static/js/main.8c13faf0.js",
+    "index.html": "/asdar.github.io/index.html",
+    "main.ef42a886.css.map": "/asdar.github.io/static/css/main.ef42a886.css.map",
+    "main.8c13faf0.js.map": "/asdar.github.io/static/js/main.8c13faf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef42a886.css",
+    "static/js/main.8c13faf0.js"
+  ]
+}
